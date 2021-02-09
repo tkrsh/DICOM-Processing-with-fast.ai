@@ -1,6 +1,8 @@
 
+Generate DICOM Metadata DataFrame With fast.ai
+
 Requirements:
 
 Fast.ai V2
 
-- Generate DICOM Metadata DataFrame With fast.ai
+update path in gen_metadata.py and then run the script !
