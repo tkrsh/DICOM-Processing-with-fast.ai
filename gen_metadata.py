@@ -1,7 +1,7 @@
 from fastai2.basics           import *
 from fastai2.medical.imaging  import *
 
-main_dir=Path("/home/tkrsh/osic-main/")
+main_dir=Path("")
 
 
 files=[]
